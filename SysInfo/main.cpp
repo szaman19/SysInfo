@@ -8,7 +8,7 @@
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
+int main() {
     // insert code here...
     int i;
     std::cin >> i;
